@@ -1,3 +1,56 @@
 body {
   background-color: #EEF3E2;
 }
+
+.photo {
+  float: left;
+  margin-right: 20px;
+  margin-top: 60px;
+  margin-bottom: 80px;
+}
+
+.name {
+  text-align: center;
+  float: none;
+  margin-top: 60px;
+}
+
+.name h1 {
+  font-size: 62px;
+  margin-top: 0%;
+  margin-left: 0%;
+}
+
+.name h3 {
+  font-style: italic;
+  font-weight: bold;
+  margin-left: 0%;
+  margin-top: 10px;
+}
+
+.projects {
+  width: 50%;
+  float: right;
+  margin-top: 0px;
+  margin-right: 130px;
+}
+
+.projects h1 {
+  text-align: center;
+  margin-left: 100px;
+}
+
+.projects ul {
+  padding-left: 20%;
+}
+
+.about {
+  clear: left;
+  margin-bottom: 0px;
+}
+
+.footer {
+  height: 50px;
+  padding-bottom: 500px;
+  text-align: center;
+}
