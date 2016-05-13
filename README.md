@@ -10,13 +10,13 @@ This is intended to be a professional portfolio showcasing my html, css and boot
 
 ## Setup/Installation Requirements
 
-* Link to Site Goes here
+* http://chayward81.github.io/IP1CH.
 * Atom
 * Git
 
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+I couldn't figure out how to make the footer stick to the bottom of the page.
 
 ## Support and contact details
 
