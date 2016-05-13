@@ -1,3 +1,7 @@
 body {
   background-color: #EEF3E2;
 }
+
+.footer {
+  display: block;
+}
