@@ -28,6 +28,6 @@ HTML, CSS, Bootstrap
 
 ### License
 
-Input License Here
+This is licensed to me, Charlie Hayward. 
 
 Copyright (c) 2016 Charlie Hayward
